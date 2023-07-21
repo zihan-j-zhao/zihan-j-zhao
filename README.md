@@ -26,14 +26,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zihan-j-zhao&show_icons=true&locale=en&layout=compact" alt="zihan-j-zhao" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zihan-j-zhao&show_icons=true&locale=en&layout=compact" alt="zihan-j-zhao" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zihan-j-zhao&show_icons=true&locale=en" alt="zihan-j-zhao" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zihan-j-zhao&" alt="zihan-j-zhao" />
-</p>
-
