@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zihan</h1>
 <h3 align="center">An Earth resident having a wide range of interests</h3>
 
-<p align="left"></p>
+<p align="left">I am currently an undergraduate <b>@ University of Wisconsin - Madison</b> majoring in <b>Computer Sciences</b> and <b>Mathematics</b>.</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -29,11 +29,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zihan-j-zhao&show_icons=true&locale=en&layout=compact" alt="zihan-j-zhao" />
 </p>
 
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zihan-j-zhao&show_icons=true&locale=en" alt="zihan-j-zhao" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zihan-j-zhao&show_icons=true&locale=en" alt="zihan-j-zhao" />
 </p>
 
-<p>&nbsp;
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zihan-j-zhao&" alt="zihan-j-zhao" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zihan-j-zhao&" alt="zihan-j-zhao" />
 </p>
 
