@@ -5,7 +5,7 @@
 <ul>
   <li>🏫 Pursuing a B.Sc degree in <i>Computer Sciences and Mathematics</i> <b>@ University of Wisconsin - Madison</b>.</li>
   <li>🌱 Interested in "<b>systems</b>" in the general sense, e.g., operating systems, distributed systems, cloud, backend, etc.</li>
-  <li>🔨 Build web frontend by <b>React + Redux + TypeScript</b> and web backend by <b>Spring Boot</b> or <b>Flask</b>.</li>
+  <li>🔨 Like <b>React + Redux + TypeScript</b> for frontend and <b>Spring Boot</b> or <b>Flask</b> for backend.</li>
   <li>🧰 Use <b>Go</b> and <b>Python</b> most often in scripting.</li>
   <li>☢️ Enjoy <b>C/C++</b> projects only if I have time to waste (cruel but true).</li>
 </ul>
